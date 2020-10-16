@@ -25,18 +25,10 @@
 - Date
 
 
-
-
-## API
-
-
-
-
-
-
-
-
-
+## What are APIs
+  - The term API is used to mean lots of things: sometimes it can mean documentation, sometimes it can mean an endpoint where you get a bunch of data (the way we're going to use it today). It stands for "Application Programming Interface"
+  - APIs that are 'endpoints' that return data for us usually have documentation on how to use them. Sometimes you need to apply to get a KEY to use an API, sometimes you're limited to the amount of free requests you can make and then have to pay
+  - All API endpoints return information in a different pattern, but the return value is usually an array or a hash
 
 https://dev.to/flippedcoding/what-is-the-difference-between-a-uri-and-a-url-4455
 
